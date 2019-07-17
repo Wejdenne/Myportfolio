@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#header{
+height:100vh;
+background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/px.jpeg);
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+}
+.user-box{
+  top: 27%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+.user-box img{
+width: 50%;
+height: 50%;
+border-radius: 50%;
+width: 170px;
+border: 0.25px solid #ffffff;
+}
+.user-box h1{
+color: #ffffff;
+}
+.user-box p{
+color: #ffffff; 
+}
