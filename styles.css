@@ -68,3 +68,15 @@ z-index: 2;
   color: #ffffff;
   font-size: 36px;
 }
+.skills-bar p{
+margin-bottom: 0px;
+font-weight: 600;
+}
+.progress{
+border-radius: 16px !important;
+margin-bottom: 16px;
+}
+.progress-bar{
+border-radius: 16px;
+float: left;
+}
