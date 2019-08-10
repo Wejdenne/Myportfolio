@@ -80,3 +80,11 @@ margin-bottom: 16px;
 border-radius: 16px;
 float: left;
 }
+#sp::first-letter{
+color: #1E90FF;
+font-weight: italic;
+font-size: 60px;
+}
+p:hover{
+color: #1E90FF;
+}
