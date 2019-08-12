@@ -83,9 +83,10 @@ margin-bottom: 16px;
 .progress-bar{
 border-radius: 16px;
 float: left;
+background: #FAAFBE !important;
 }
 #sp::first-letter{
-color: #63FAFF;
+color: #F660AB;
 font-weight: italic;
 font-size: 60px;
 }
@@ -98,10 +99,10 @@ color: #C6AEC7;
   background: #EBDDE2;
 }
 .resume h3{
-  margin-bottom: 50px;E9CFEC
+  margin-bottom: 50px;
 }
 .resume h3:hover{
-  color: #999;
+  color: #C6AEC7;
 }
 .timeline{
   list-style-type: none;
@@ -145,4 +146,10 @@ color: #C6AEC7;
   height: 20px;
   width: 20px;
   z-index: 1;
+}
+.about-container{
+  background-color: #FFF5FF;
+}
+.skills-bar h3:hover{
+color: #C6AEC7;
 }
