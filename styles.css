@@ -52,6 +52,7 @@ border-radius: 20px;
 .profile-img{
   height: 300px;
   border-radius: 32px;
+  background-color: #FFE5B4;
 }
 .nav-bar{
 top: 0;
@@ -68,12 +69,12 @@ z-index: 2;
   color: #ffffff;
   font-size: 36px;
 }
+.skills-bar{
+  background: #E3E4FA;
+}
 .skills-bar p{
 margin-bottom: 0px;
 font-weight: 600;
-}
-.skills-bar{
-  background: #999;
 }
 .progress{
 border-radius: 16px !important;
@@ -84,20 +85,23 @@ border-radius: 16px;
 float: left;
 }
 #sp::first-letter{
-color: #1E90FF;
+color: #63FAFF;
 font-weight: italic;
 font-size: 60px;
 }
 .skills-bar p:hover{
-color: #1E90FF;
+color: #C6AEC7;
 }
 .resume{
   padding: 50px;
   padding-bottom: 30px;
-  background: burlywood;
+  background: #EBDDE2;
 }
 .resume h3{
-  margin-bottom: 50px;
+  margin-bottom: 50px;E9CFEC
+}
+.resume h3:hover{
+  color: #999;
 }
 .timeline{
   list-style-type: none;
